@@ -3,12 +3,12 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Yone Theme</title>
+  <title>Yone Theme Page</title>
   <style>
     body {
       margin: 0;
       padding: 0;
-      background: linear-gradient(#0f0f0f, #1a1a1a);
+      background: linear-gradient(to bottom, #0f0f0f, #1a1a1a);
       height: 100vh;
       display: flex;
       justify-content: center;
@@ -20,9 +20,9 @@
       background: #222;
       border-radius: 20px;
       overflow: hidden;
-      box-shadow: 0 0 30px rgba(0,0,0,0.8);
-      width: 300px;
-      transition: transform 0.3s;
+      box-shadow: 0 0 30px rgba(0, 0, 0, 0.8);
+      width: 320px;
+      transition: transform 0.3s ease;
     }
 
     .card:hover {
@@ -43,7 +43,7 @@
 
     .card-content h1 {
       font-size: 24px;
-      margin: 0 0 10px;
+      margin-bottom: 10px;
     }
 
     .card-content p {
