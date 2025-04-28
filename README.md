@@ -26,8 +26,8 @@
 
 ### 🌟 Quotes Yone:
 - "your champion on your life and don't give up because other people deserve it more than you."
-- "menyerah bukanlah pilihan yang tepat bagi para pejuang."
+- "Surrendering is not the right choice for warriors."
 
 ---
 
-<p align="center"><i>Made with ⚔️ and a bit of sorrow...</i></p>
+<p align="center"><i>pleasure is a trick to weaken...</i></p>
