@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <em>"tak ada kata-kata ... Tapi aku akan terus maju."</em>
+  <em>"tak ada kata-kata ... yang ada hanya terus melangkah."</em>
 </p>
 
 ---
