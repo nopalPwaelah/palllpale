@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="https://s6.ezgif.com/tmp/ezgif-689f54fa322e76.gif" alt="Yone - League of Legends" width="750">
+  <img src="https://media.giphy.com/media/rzeWnbH8Uc5Y4/giphy.gif?cid=ecf05e479wm3vbcbdxy6ake61r6wu691bw4is9gxyfgb2e3m&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Yone - League of Legends" width="750">
 </p>
-
-<h2 align="center">⚔️ Yone - Spirit of Redemption ⚔️</h2>
-
 ---
 
 <p align="center">
@@ -19,12 +16,12 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/VJTAhOzkmy7620OMK8/giphy.gif" width="200" alt="Yone Sword Gif">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnU0Z2Q4YnY0cWNleHlzZmRtdHp4NzgwaGtlcDh3MTZtczhpNHBhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pDtIsbGHpEgP5QgCXj/giphy.gif" width="200" alt="Yone Sword Gif">
 </div>
 
 ---
 
-### 🌟 Quotes Yone:
+### 🌟 Quotes:
 - "your champion on your life and don't give up because other people deserve it more than you."
 - "Surrendering is not the right choice for warriors."
 
