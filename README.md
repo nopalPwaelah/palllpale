@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://s6.ezgif.com/tmp/ezgif-689f54fa322e76.gif" alt="Yone - League of Legends" width="300">
+  <img src="https://s6.ezgif.com/tmp/ezgif-689f54fa322e76.gif" alt="Yone - League of Legends" width="750">
 </p>
 
 <h2 align="center">⚔️ Yone - Spirit of Redemption ⚔️</h2>
